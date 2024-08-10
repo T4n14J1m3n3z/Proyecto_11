@@ -1,7 +1,20 @@
-# Proyecto_11
-La compañía de seguros Sure Tomorrow quiere resolver varias tareas con la ayuda de machine learning y te pide que evalúes esa posibilidad.
+## Machine Learning Applications for Sure Tomorrow Insurance
 
-Tarea 1: encontrar clientes que sean similares a un cliente determinado. Esto ayudará a los agentes de la compañía con el marketing.
-Tarea 2: predecir si es probable que un nuevo cliente reciba un beneficio de seguro. ¿Puede un modelo de predicción entrenado funcionar mejor que un modelo dummy no entrenado? ¿Puede funcionar peor? Explica tu respuesta.
-Tarea 3: predecir la cantidad de beneficios de seguro que probablemente recibirá un nuevo cliente utilizando un modelo de regresión lineal.
-Tarea 4: proteger los datos personales de los clientes sin romper el modelo de la tarea anterior.
+Project Description:
+
+Sure Tomorrow Insurance aims to enhance its operations using machine learning techniques. Your tasks involve evaluating various machine learning models to improve customer service and data privacy.
+
+Objectives:
+
+Customer Similarity:
+
+Identify clients similar to a given customer to assist the marketing team in targeting and personalization.
+Benefit Prediction:
+
+Predict the likelihood of a new customer receiving an insurance benefit. Compare the performance of a trained predictive model against a dummy model and explain which performs better or worse.
+Benefit Amount Prediction:
+
+Use linear regression to forecast the amount of insurance benefits a new customer is likely to receive.
+Data Privacy Protection:
+
+Ensure that personal data is protected while maintaining the effectiveness of the linear regression model from the previous task.
